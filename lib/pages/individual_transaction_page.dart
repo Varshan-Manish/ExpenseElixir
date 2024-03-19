@@ -196,5 +196,3 @@ class _IndividualTransactionPageState extends State<IndividualTransactionPage>{
     );
   }
 }
-/*
-*/
